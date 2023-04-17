@@ -1,0 +1,23 @@
+form div {
+    display: block;
+    padding-top: 30px;
+    padding-left: 15px;
+}
+
+input {
+    width: 95%;
+    display: block;
+    
+}
+
+label {
+    font-weight: 550;
+    display: block;
+    
+}
+
+textarea {
+    width: 95%;
+    height: 170px;
+   
+}
